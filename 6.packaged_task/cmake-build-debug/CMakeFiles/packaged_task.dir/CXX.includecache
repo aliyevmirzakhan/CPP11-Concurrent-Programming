@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mirzakhan/CLionProjects/Multithreading/packaged_task/main.cpp
+iostream
+-
+deque
+-
+thread
+-
+future
+-
+functional
+-
+

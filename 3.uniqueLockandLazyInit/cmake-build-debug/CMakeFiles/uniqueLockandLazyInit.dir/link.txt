@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uniqueLockandLazyInit.dir/main.cpp.o  -o uniqueLockandLazyInit -pthread 

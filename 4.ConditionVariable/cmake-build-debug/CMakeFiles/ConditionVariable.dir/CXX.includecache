@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mirzakhan/CLionProjects/Multithreading/ConditionVariable/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+deque
+-
+condition_variable
+-
+
